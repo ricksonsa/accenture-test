@@ -1,0 +1,11 @@
+<div class="container">
+    <h4 class="text-center">Photos</h4>
+
+    <div *ngFor="let item of items">
+        <div class="card m-4">
+            <div class="card-body">
+                <img class="d-block w-100" [src]="item.url" alt="First slide">
+            </div>
+        </div>
+    </div>
+</div>

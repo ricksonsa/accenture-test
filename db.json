@@ -1,0 +1,40 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "url": "https://image.freepik.com/free-photo/wooden-board-empty-table-front-blurred-background-perspective-brown-wood-blur-coffee-shop-can-be-used-display-montage-your-products-mock-up-display-product_1253-1455.jpg"
+    },
+    {
+      "url": "https://image.freepik.com/free-photo/homemade-cake-bakery-round-board-mockup_53876-65258.jpg",
+      "id": 2
+    },
+    {
+      "url": "https://image.freepik.com/free-photo/wooden-board-empty-table-top-blurred-background_1253-1584.jpg",
+      "id": 3
+    },
+    {
+      "url": "https://image.freepik.com/free-photo/stack-blank-black-business-cards-wooden-background_1205-1526.jpg",
+      "id": 4
+    },
+    {
+      "url": "https://image.freepik.com/free-photo/laptop-with-blank-white-screen_273609-16110.jpg",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "some user",
+      "email": "user@email.com",
+      "password": "123456"
+    },
+    {
+      "userName": "admin",
+      "email": "admin@email.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 2
+    }
+  ]
+}
